@@ -1,0 +1,11 @@
+## Good Links for Reference:
+- https://fraunhoferiwes.github.io/foxes.docs/api_wake_models.html#foxes-models-wake-models-wind
+- https://fraunhoferiwes.github.io/foxes.docs/notebooks/model_book.html
+- https://fraunhoferiwes.github.io/foxes.docs/_modules/foxes/models/wake_models/wind/jensen.html#JensenWake
+- https://fraunhoferiwes.github.io/foxes.docs/models.html#wake-models
+- https://github.com/FraunhoferIWES/foxes/tree/460602330c3ea50937545bcbcabf71a2d3073106
+- https://pypi.org/project/foxes/
+- https://confluence.ecmwf.int/pages/viewpage.action?pageId=133262398#:~:text=The%20meteorological%20wind%20direction%20is,westerly%20wind%20is%20270%C2%B0
+- https://www.4coffshore.com/windfarms/germany/n-9.1-germany-de3a.html
+- https://map.4coffshore.com/offshorewind/
+- https://fraunhoferiwes.github.io/foxes.docs/notebooks/blockage_comparison.html
